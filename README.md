@@ -24,7 +24,7 @@ This Unreal Engine project is a simulation of a car following a spline path and 
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/unreal-traffic-simulation.git
+   git clone https://github.com/hugo2006alm/GitCar.git
 2. Open the project in Unreal Engine.
 3. Build the project to ensure all dependencies are resolved.
 4. Open the Main Scene.
